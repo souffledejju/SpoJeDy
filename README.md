@@ -60,11 +60,11 @@ Collaboratively built by:
   * Role: *Core Developer*
   * Contributions: Media player state engine, queue management logic, playlist storage persistence, and core playback synchronization in Vue.
 
-* **[Cindy Soputri]**
+* **Cindy Soputri**
   * Role: *Developer / Search & Discovery*
   * Contributions: Search bar logic, catalog filtering, music metadata structuring, and recommendation views.
 
-* **[Berta Christina]**
+* **Berta Christina**
   * Role: *Developer / Authentication & QA*
   * Contributions: User authentication flows, account state persistence, edge-case testing, and cross-browser responsiveness validation.
 
