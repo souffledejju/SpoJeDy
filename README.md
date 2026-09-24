@@ -82,14 +82,15 @@ Make sure you have **Node.js** (v18 or newer recommended) and **npm** installed 
    ```bash
    cd SpoJeDy
 3. Install dependencies:
-```bash
-   npm install
-4. Start the local development server:
-```bash
+   ```bash
+   npm install  
+5. Start the local development server:
+   ```bash
    npm run dev
-5. Open your browser and navigate to the local URL shown in the terminal (usually http://localhost:5173).
+6. Open your browser and navigate to the local URL shown in the terminal (usually http://localhost:5173).
 
-Production Build
+
+### Production Build
 To create an optimized production build:
 ```bash
    npm run build
